@@ -1,6 +1,6 @@
 # Fully Homomorphic Encryption to Fully Halt the Enemies 
 
-This repository contains the implementation and experiments performed as part of the final project for Harvard CS242.
+This repository contains implementation and experiment code used to explore ways to prevent backdoor attacks in a fully homomorphically encrypted federated learning environment as part of the completion of a final project for Harvard CS 242.
  
 The code is organized across three files: 
 
