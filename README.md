@@ -1,6 +1,6 @@
-# Fully Homomorphic Encryption to Fully Halt the Enemies 
+# SAFHE: Defending Against Backdoor and Gradient Inversion Attacks in Federated Learning
 
-This repository contains implementation and experiment code used to explore ways to prevent backdoor attacks in a fully homomorphically encrypted federated learning environment as part of the completion of a final project for Harvard CS 242.
+This repository contains the implementation and experiment code used to evaluate our SAFHE method (Secure Aggregation with Fully Homomorphic Encryption), a novel scheme to defend against both backdoor attacks and gradient inversion attacks in federated learning systems.
  
 The code is organized across three files: 
 
